@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/KatoTempest/motorola_pokerpatas'
+        default: 'https://github.com/KatoTempest/clean_device_pokerp'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
